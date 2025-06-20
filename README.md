@@ -37,7 +37,7 @@ Lulu is your charming and cheerful Python-based voice assistant designed to inte
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/lilu-voice-assistant.git
+[git clone https://github.com/your-username/lilu-voice-assistant.git](https://github.com/satish05112003/LULU_VOICE_ASSISTANT.git)
 cd lilu-voice-assistant
 ```
 
