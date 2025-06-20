@@ -49,7 +49,8 @@ venv\Scripts\activate  # On Windows
 
 ### 3. Install Dependencies
 ```bash
-pip install -r requirements.txt
+pip install speechrecognition pyttsx3 pywhatkit wikipedia pyjokes webbrowser
+
 ```
 
 ### 4. Run the Assistant
